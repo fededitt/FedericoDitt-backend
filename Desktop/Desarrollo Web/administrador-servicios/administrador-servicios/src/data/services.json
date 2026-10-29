@@ -1,0 +1,39 @@
+
+[
+  {
+    "id": 1,
+    "name": "Corte clásico",
+    "description": "Corte tradicional con terminaciones prolijas.",
+    "duration": 30,
+    "price": 8000,
+    "category": "Cortes",
+    "available": true
+  },
+  {
+    "id": 2,
+    "name": "Corte degradado",
+    "description": "Corte moderno con degradado personalizado.",
+    "duration": 45,
+    "price": 10000,
+    "category": "Cortes",
+    "available": true
+  },
+  {
+    "id": 3,
+    "name": "Arreglo de barba",
+    "description": "Perfilado y arreglo de barba con precisión.",
+    "duration": 20,
+    "price": 6000,
+    "category": "Barba",
+    "available": true
+  },
+  {
+    "id": 4,
+    "name": "Corte y barba",
+    "description": "Servicio combinado de corte y arreglo de barba.",
+    "duration": 60,
+    "price": 14000,
+    "category": "Combos",
+    "available": false
+  }
+]

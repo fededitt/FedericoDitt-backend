@@ -1,0 +1,14 @@
+{
+  "name": "administrador-servicios",
+  "version": "1.0.0",
+  "description": "Administrador de servicios para un sistema de turnos y reservas",
+  "main": "src/app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "node --watch src/app.js"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.9"
+  }
+}
